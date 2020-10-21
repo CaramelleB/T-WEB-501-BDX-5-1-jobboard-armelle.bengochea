@@ -1,0 +1,9 @@
+Flask==1.1.2
+Flask-Bcrypt==0.7.1
+Flask-JWT-Extended==3.24.1
+Flask-Cors==3.0.9
+mysqlclient==2.0.1
+PyMySQL==0.10.1
+python-dotenv==0.14.0
+requests==2.18.4
+simplejson==3.13.2

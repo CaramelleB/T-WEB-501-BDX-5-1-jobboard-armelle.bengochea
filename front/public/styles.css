@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@700&family=Roboto+Condensed:wght@700&family=Roboto&display=swap');
+
+body{
+    background-color:white;
+    width: 100vw;
+    overflow-x: hidden;
+    display: flex;
+    margin: 0 0;
+    -ms-overflow-style: none; 
+    scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+  
+.active{
+    display: block;
+}
